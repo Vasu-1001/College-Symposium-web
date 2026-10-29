@@ -8,7 +8,7 @@ This is the official repository for the ODYSSEY 2K26 symposium website, featurin
 - **Icons**: Lucide React
 - **Backend**: Supabase (for registrations)
 
-## Setup Instructions
+## Setup Instructions follow
 
 1.  **Install Dependencies**
     ```bash
